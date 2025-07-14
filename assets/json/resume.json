@@ -33,18 +33,6 @@
       "highlights": [""]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "",
-      "location": "",
-      "position": "",
-      "url": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [""]
-    }
-  ],
   "education": [
     {
       "institution": "Stanford University",
@@ -52,64 +40,23 @@
       "url": "https://www.stanford.edu",
       "area": "Physics",
       "studyType": "Master of Science",
-      "startDate": "",
-      "endDate": "2025-04-03",
+      "startDate": "2025-04-03",
+      "endDate": "",
+      "score": "",
+      "courses": ""
+    },
+    {
+      "institution": "Washington and Lee University",
+      "location": "Lexington, VA, USA",
+      "url": "https://www.wlu.edu",
+      "area": "Physics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2020-05-28",
+      "endDate": "",
       "score": "",
       "courses": ""
     }
-  ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "url": "",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    },
-    {
-      "name": "",
-      "date": "",
-      "issuer": "",
-      "url": "",
-      "icon": ""
-    }
+
   ],
   "publications": [
     {
@@ -147,44 +94,6 @@
         "",
         ""
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "",
-      "fluency": "",
-      "icon": ""
-    },
-    {
-      "language": "",
-      "fluency": "",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "",
-      "keywords": [
-        "",
-        "",
-        "",
-        "",
-        "",
-        ""
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
-    },
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
     }
   ],
   "projects": [

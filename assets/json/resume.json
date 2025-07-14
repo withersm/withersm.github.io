@@ -6,7 +6,7 @@
     "email": "withersm@stanford.edu",
     "phone": "",
     "url": "https://withersm.github.io",
-    "summary": "A physicist-in-training, focusing on designing instrumentation for particle detection (axions) and observational cosmology (cosmic microwave background)",
+    "summary": "A physicist-in-training -- designing, constructing, and comissioning instrumentation for particle detection (axions) and observational cosmology (cosmic microwave background)",
     "location": {
       "address": "Varian Physics\\n382 Via Pueblo",
       "postalCode": "CA 94305",
@@ -40,8 +40,7 @@
       "url": "https://www.stanford.edu",
       "area": "Physics",
       "studyType": "Master of Science",
-      "startDate": "2025-04-03",
-      "endDate": "",
+      "endDate": "2025-04-03",
       "score": "",
       "courses": ""
     },
@@ -51,8 +50,7 @@
       "url": "https://www.wlu.edu",
       "area": "Physics",
       "studyType": "Bachelor of Science",
-      "startDate": "2020-05-28",
-      "endDate": "",
+      "endDate": "2020-05-28",
       "score": "",
       "courses": ""
     }

@@ -195,9 +195,12 @@ exclude:
   - _pages/blog.md
   - _posts/
   - assets/jupyter/blog.ipynb
-  - _projects
-  - _repositories
-  - _people
+  - _pages/about_einstein.md
+  - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/news.md
+  - _pages/projects.md
+  - _pages/repositories.md
 keep_files:
   - CNAME
   - .nojekyll

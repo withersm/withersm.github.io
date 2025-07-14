@@ -195,6 +195,9 @@ exclude:
   - _pages/blog.md
   - _posts/
   - assets/jupyter/blog.ipynb
+  - _projects
+  - _repositories
+  - _people
 keep_files:
   - CNAME
   - .nojekyll
